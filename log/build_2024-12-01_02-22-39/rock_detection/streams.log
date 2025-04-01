@@ -1,0 +1,17 @@
+[1.027s] Invoking command in '/home/roopi66/ros2_ws/build/rock_detection': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detection/build --no-deps symlink_data
+[1.280s] running develop
+[1.431s] running egg_info
+[1.431s] writing rock_detection.egg-info/PKG-INFO
+[1.432s] writing dependency_links to rock_detection.egg-info/dependency_links.txt
+[1.432s] writing entry points to rock_detection.egg-info/entry_points.txt
+[1.433s] writing requirements to rock_detection.egg-info/requires.txt
+[1.433s] writing top-level names to rock_detection.egg-info/top_level.txt
+[1.435s] reading manifest file 'rock_detection.egg-info/SOURCES.txt'
+[1.436s] writing manifest file 'rock_detection.egg-info/SOURCES.txt'
+[1.438s] running build_ext
+[1.439s] Creating /home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages/rock-detection.egg-link (link to .)
+[1.440s] Installing rock_detection script to /home/roopi66/ros2_ws/install/rock_detection/lib/rock_detection
+[1.440s] 
+[1.440s] Installed /home/roopi66/ros2_ws/build/rock_detection
+[1.440s] running symlink_data
+[1.528s] Invoked command in '/home/roopi66/ros2_ws/build/rock_detection' returned '0': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detection/build --no-deps symlink_data

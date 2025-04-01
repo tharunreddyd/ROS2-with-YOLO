@@ -1,0 +1,19 @@
+[1.001s] Invoking command in '/home/roopi66/ros2_ws/build/rock_detector': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detector/build --no-deps symlink_data
+[1.257s] running develop
+[1.407s] running egg_info
+[1.407s] writing rock_detector.egg-info/PKG-INFO
+[1.409s] writing dependency_links to rock_detector.egg-info/dependency_links.txt
+[1.409s] writing entry points to rock_detector.egg-info/entry_points.txt
+[1.409s] writing requirements to rock_detector.egg-info/requires.txt
+[1.410s] writing top-level names to rock_detector.egg-info/top_level.txt
+[1.412s] reading manifest file 'rock_detector.egg-info/SOURCES.txt'
+[1.415s] writing manifest file 'rock_detector.egg-info/SOURCES.txt'
+[1.416s] running build_ext
+[1.417s] Creating /home/roopi66/ros2_ws/install/rock_detector/lib/python3.10/site-packages/rock-detector.egg-link (link to .)
+[1.418s] Installing camera_node script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+[1.418s] Installing detector_node script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+[1.418s] Installing turtle_controller script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+[1.419s] 
+[1.419s] Installed /home/roopi66/ros2_ws/build/rock_detector
+[1.419s] running symlink_data
+[1.483s] Invoked command in '/home/roopi66/ros2_ws/build/rock_detector' returned '0': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detector/build --no-deps symlink_data

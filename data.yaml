@@ -1,0 +1,4 @@
+train: /home/roopi66/mars_rocks/train
+val: /home/roopi66/mars_rocks/train  # Use the same directory for validation if no `val` folder exists
+nc: 1
+names: ['rock']

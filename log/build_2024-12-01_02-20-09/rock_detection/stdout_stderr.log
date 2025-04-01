@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating rock_detection.egg-info
+writing rock_detection.egg-info/PKG-INFO
+writing dependency_links to rock_detection.egg-info/dependency_links.txt
+writing entry points to rock_detection.egg-info/entry_points.txt
+writing requirements to rock_detection.egg-info/requires.txt
+writing top-level names to rock_detection.egg-info/top_level.txt
+writing manifest file 'rock_detection.egg-info/SOURCES.txt'
+reading manifest file 'rock_detection.egg-info/SOURCES.txt'
+writing manifest file 'rock_detection.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages/rock-detection.egg-link (link to .)
+Installing rock_detection script to /home/roopi66/ros2_ws/install/rock_detection/lib/rock_detection
+
+Installed /home/roopi66/ros2_ws/build/rock_detection
+running symlink_data
+creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index
+creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index
+creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index/packages
+symbolically linking /home/roopi66/ros2_ws/build/rock_detection/resource/rock_detection -> /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index/packages
+symbolically linking /home/roopi66/ros2_ws/build/rock_detection/package.xml -> /home/roopi66/ros2_ws/install/rock_detection/share/rock_detection

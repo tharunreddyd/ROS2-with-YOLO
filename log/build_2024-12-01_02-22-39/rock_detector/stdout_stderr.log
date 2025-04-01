@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing rock_detector.egg-info/PKG-INFO
+writing dependency_links to rock_detector.egg-info/dependency_links.txt
+writing entry points to rock_detector.egg-info/entry_points.txt
+writing requirements to rock_detector.egg-info/requires.txt
+writing top-level names to rock_detector.egg-info/top_level.txt
+reading manifest file 'rock_detector.egg-info/SOURCES.txt'
+writing manifest file 'rock_detector.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/roopi66/ros2_ws/install/rock_detector/lib/python3.10/site-packages/rock-detector.egg-link (link to .)
+Installing camera_node script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+Installing detector_node script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+Installing turtle_controller script to /home/roopi66/ros2_ws/install/rock_detector/lib/rock_detector
+
+Installed /home/roopi66/ros2_ws/build/rock_detector
+running symlink_data

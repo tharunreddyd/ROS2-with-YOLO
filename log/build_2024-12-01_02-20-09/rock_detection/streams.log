@@ -1,0 +1,24 @@
+[1.029s] Invoking command in '/home/roopi66/ros2_ws/build/rock_detection': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detection/build --no-deps symlink_data
+[1.285s] running develop
+[1.433s] running egg_info
+[1.433s] creating rock_detection.egg-info
+[1.433s] writing rock_detection.egg-info/PKG-INFO
+[1.434s] writing dependency_links to rock_detection.egg-info/dependency_links.txt
+[1.435s] writing entry points to rock_detection.egg-info/entry_points.txt
+[1.435s] writing requirements to rock_detection.egg-info/requires.txt
+[1.435s] writing top-level names to rock_detection.egg-info/top_level.txt
+[1.436s] writing manifest file 'rock_detection.egg-info/SOURCES.txt'
+[1.437s] reading manifest file 'rock_detection.egg-info/SOURCES.txt'
+[1.438s] writing manifest file 'rock_detection.egg-info/SOURCES.txt'
+[1.440s] running build_ext
+[1.440s] Creating /home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages/rock-detection.egg-link (link to .)
+[1.441s] Installing rock_detection script to /home/roopi66/ros2_ws/install/rock_detection/lib/rock_detection
+[1.442s] 
+[1.443s] Installed /home/roopi66/ros2_ws/build/rock_detection
+[1.443s] running symlink_data
+[1.443s] creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index
+[1.444s] creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index
+[1.444s] creating /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index/packages
+[1.445s] symbolically linking /home/roopi66/ros2_ws/build/rock_detection/resource/rock_detection -> /home/roopi66/ros2_ws/install/rock_detection/share/ament_index/resource_index/packages
+[1.446s] symbolically linking /home/roopi66/ros2_ws/build/rock_detection/package.xml -> /home/roopi66/ros2_ws/install/rock_detection/share/rock_detection
+[1.506s] Invoked command in '/home/roopi66/ros2_ws/build/rock_detection' returned '0': PYTHONPATH=/home/roopi66/ros2_ws/build/rock_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roopi66/ros2_ws/install/rock_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/roopi66/ros2_ws/build/rock_detection/build --no-deps symlink_data
